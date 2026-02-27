@@ -98,6 +98,7 @@ The Streamlit application:
 ``` text
 clinical-readmission-ml/
 │
+├── Dockerfile
 ├── requirements.txt
 └── src/
 ├── streamlit_app.py
